@@ -1,3 +1,2 @@
 # my-first-binder
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fcarrievarney%2Fmy-first-binder%2FHEAD/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fhub-binder.mybinder.ovh%2Fuser%2Fcarrievarney-my-first-binder-wc5c7wco%2Flab/HEAD)
